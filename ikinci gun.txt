@@ -9,3 +9,5 @@ Ucuncu gun ikincii deneme
 MASTER branch bilincli hata
 Ucuncu gun kadir BRANCH deneme2 ekleme
 kadir BRANCHI
+Ucuncu gun kadir BRANCH deneme
+MASTER branch ikinci hata
