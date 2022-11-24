@@ -6,3 +6,4 @@ ikinci gun kadir Branch'denemeIKI
 ikinci gun kadir Branch'deneme Uc
 git hub Ucuncu gun ilk deneme
 Ucuncu gun ikincii deneme
+MASTER branch bilincli hata
