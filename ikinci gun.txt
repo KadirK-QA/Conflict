@@ -7,4 +7,5 @@ ikinci gun kadir Branch'deneme Uc
 git hub Ucuncu gun ilk deneme
 Ucuncu gun ikincii deneme
 MASTER branch bilincli hata
-Ucuncu gun kadir BRANCH deneme
+Ucuncu gun kadir BRANCH deneme2 ekleme
+kadir BRANCHI
