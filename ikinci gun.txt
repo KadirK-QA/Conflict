@@ -8,3 +8,4 @@ git hub Ucuncu gun ilk deneme
 Ucuncu gun ikincii deneme
 MASTER branch bilincli hata
 Ucuncu gun kadir BRANCH deneme
+MASTER branch ikinci hata
